@@ -1,0 +1,6 @@
+multiplayer-tag-game/
+│── index.html
+│── game.js
+│── assets/
+│   │── player.png (default Phaser sprite)
+│   │── tagger.png (red version)
